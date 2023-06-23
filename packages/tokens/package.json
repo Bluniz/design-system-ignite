@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@aisha-ui/tokens",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,7 +13,7 @@
   "devDependencies": {
     "tsup": "^6.7.0",
     "typescript": "^5.1.3",
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*"
+    "@aisha-ui/ts-config": "*",
+    "@aisha-ui/eslint-config": "*"
   }
 }

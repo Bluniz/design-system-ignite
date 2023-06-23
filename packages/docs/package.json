@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@aisha-ui/docs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -19,10 +19,10 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@aisha-ui/eslint-config": "*",
+    "@aisha-ui/react": "*",
+    "@aisha-ui/tokens": "*",
+    "@aisha-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.0.22",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

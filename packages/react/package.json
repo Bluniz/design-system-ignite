@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@aisha-ui/react",
   "version": "1.0.0",
   "license": "MIT",
   "main": "./dist/index.js",
@@ -11,9 +11,9 @@
     "lint": "eslint src/**/*.ts*"
   },
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@aisha-ui/eslint-config": "*",
+    "@aisha-ui/tokens": "*",
+    "@aisha-ui/ts-config": "*",
     "@types/react": "^18.2.8",
     "@types/react-dom": "^18.2.4",
     "react": "^18.2.0",
