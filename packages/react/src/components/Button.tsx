@@ -22,6 +22,10 @@ export const Button = styled('button', {
   '&:disabled': {
     cursor: 'not-allowed',
   },
+  //! o $colors ajuda a passar qualquer variavel de configuração do stiches
+  '&:focus': {
+    boxShadow: '0 0 0 2px $colors$gray100',
+  },
 
   svg: {
     width: '$4',
@@ -81,6 +85,6 @@ export const Button = styled('button', {
   },
 })
 
-export interface ButtonProps extends ComponentProps<typeof Button> {}
+export interface ButtonProps extends ComponentProps<typeof Button> { }
 
 Button.displayName = 'Button'
